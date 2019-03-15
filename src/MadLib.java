@@ -1,4 +1,8 @@
 import java.util.*;
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
 
 public class MadLib {
 	public static void main(String args[]) {
@@ -49,7 +53,7 @@ public class MadLib {
 							"A vacation is when you take a trip to some %s place\n" +
 							"with your %s family. Usually you go to some place\n" +
 							"that is near a/an %s or up on a/an %s.\n" +
-							"A good vacation pace is one where you can ride %s\n" +
+							"A good vacation place is one where you can ride %s\n" +
 							"or play %s or go hunting for %s. I like\n" +
 							"to spend my time %s or %s.\n" +
 							"When parents go on a vacation, they spend their time eating\n" +
